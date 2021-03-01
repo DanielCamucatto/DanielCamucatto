@@ -18,7 +18,7 @@ hello I'm a full-stack developer with a focus on front-end, passionate about tec
   <img align="center" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 <a target="_blank" href="https://twitter.com/danielcamucatto" title = 'twitter'>
-  <img align="center" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="right" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 
 <h2>languages I use</h2>
