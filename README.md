@@ -3,7 +3,7 @@
 ## Hi there (olá) :smiley:
 ## I'am Daniel Camuçatto 
 
-:computer: Software Developer  :house_with_garden: Brasileiro :earth_americas: São Paulo/SP
+:computer:  Software Developer  :house_with_garden: Brasileiro :earth_americas: São Paulo/SP
 
 ## About me 
 
@@ -17,6 +17,7 @@
   <img align="center" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 
+<h2>languages I use</h2>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
