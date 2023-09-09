@@ -1,5 +1,4 @@
 # WELCOME TO MY GITHUB :octocat:
-![Aryclenio GitHub Stats](https://github-readme-stats.vercel.app/api?username=danielcamucatto&show_icons=true)
 ## Hi there (olá) :smiley:
 ## I'am Daniel Camuçatto 
 
